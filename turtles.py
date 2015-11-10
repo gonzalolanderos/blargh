@@ -3,6 +3,8 @@ turtles_we_like = [
     'African Slideneck',
     'Red Eared Slider',
     'Razor Shell'
+    'Some other Turtle'
+    'Ridge Back'
     ]
 
 for turtle in turtles_we_like:
